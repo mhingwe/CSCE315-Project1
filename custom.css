@@ -1,5 +1,5 @@
 .background{
-    background-image: url(GoogleImageBackground.jpg);
+    background-image: url(background.webp);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -8,32 +8,33 @@
 .topbar{
 
     width: 1200px;
-    height: 100px;
+    height: 120px;
     margin-left: auto;
     margin-right: auto;
     border: 5px solid black;
-    background-color: white;
+    background-image: linear-gradient(grey,white );
 
 }
 
 .whiteRectangleLanding{
     width: 1200px;
-    height: 1000px;
-    border: 1px solid #000;
-    background-color: white;
+    height: 550px;
+    border: 5px solid black;
+    /*background-color: white;*/
+    background-image: linear-gradient(grey,white );
     margin-left: auto;
     margin-right: auto;
 
 }
 
-.buttonallign{
+.buttonalign{
     display: flex;
     justify-content: space-between;
 }
 
 .button{
 
-  background-color: #4CAF50; 
+  background-color: grey; 
   border: none;
   position: relative;
   color: white;
@@ -49,5 +50,19 @@
 }
 
 .button:hover {
-    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+    box-shadow: 0 12px 16px 0 rgba(212, 183, 18, 0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.websiteTitle{
+    text-align: center;
+    text-shadow: 2px 2px 4px whitesmoke;
+    color: black;
+}
+
+.bufferspace{
+    height: 15px;
+}
+
+.buttonbuffer{
+    width: 5px;
 }
