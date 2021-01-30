@@ -1,0 +1,37 @@
+.background{
+    background-image: url(IMG_0099.PNG);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.centerFormat{
+    position: absolute;
+    left: -17%; 
+    margin-left: 512px; 
+}
+
+.centerFormatTopbar{
+    position: absolute;
+    left: 45%;
+}
+
+.whiteRectangle{
+    width: 1000px;
+    height: 1000px;
+    border: 1px solid #000;
+    background-color: white;
+}
+
+.topBar{
+    width: 1500px;
+    height: 100px;
+    background-color: grey;
+    background-size: 100% 100%;
+}
+
+.centerText{
+    text-align: center;
+}
+
+
