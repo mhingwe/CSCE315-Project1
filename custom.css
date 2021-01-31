@@ -5,13 +5,6 @@
     background-size: 100% 100%;
 }
 
-.background1{
-    background-image: url(IMG_0099.PNG);
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: 100% 100%;
-}
-
 .topbar{
     width: 1200px;
     height: 120px;
@@ -24,6 +17,16 @@
 .whiteRectangleLanding{
     width: 1200px;
     height: 550px;
+    border: 5px solid black;
+    /*background-color: white;*/
+    background-image: linear-gradient(grey,white );
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.whiteRectanglePortfolio{
+    width: 1200px;
+    height: 1600px;
     border: 5px solid black;
     /*background-color: white;*/
     background-image: linear-gradient(grey,white );
@@ -67,7 +70,7 @@
 }
 
 .buttonbuffer{
-    width: 5px;
+    width: 10px;
 }
 
 .alignCenter{
@@ -82,3 +85,24 @@
     text-align: left;
 }
 
+.textspacePortfolio1{
+
+    width: 700px;
+    height: 150px;
+    border: 5px solid black;
+    /*background-color: white;*/
+    background-image: black;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.textspaceAboutme1{
+    width: 500px;
+    height: 150px;
+    border: 5px solid black;
+    /*background-color: white;*/
+    background-image: black;
+    margin-left: auto;
+    margin-right: auto;
+}
