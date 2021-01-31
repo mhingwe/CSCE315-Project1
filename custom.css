@@ -5,15 +5,20 @@
     background-size: 100% 100%;
 }
 
-.topbar{
+.background1{
+    background-image: url(IMG_0099.PNG);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
 
+.topbar{
     width: 1200px;
     height: 120px;
     margin-left: auto;
     margin-right: auto;
     border: 5px solid black;
     background-image: linear-gradient(grey,white );
-
 }
 
 .whiteRectangleLanding{
@@ -24,7 +29,6 @@
     background-image: linear-gradient(grey,white );
     margin-left: auto;
     margin-right: auto;
-
 }
 
 .buttonalign{
@@ -33,7 +37,6 @@
 }
 
 .button{
-
   background-color: grey; 
   border: none;
   position: relative;
@@ -66,3 +69,16 @@
 .buttonbuffer{
     width: 5px;
 }
+
+.alignCenter{
+    text-align: center;
+}
+
+.alignRight{
+    text-align: right;
+}
+
+.alignLeft{
+    text-align: left;
+}
+
