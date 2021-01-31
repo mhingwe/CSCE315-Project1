@@ -1,0 +1,21 @@
+/*whitespace for the Landing page**/
+.whiteRectangleLanding{
+    width: 1200px;
+    height: 550px;
+    border: 5px solid black;
+    /*background-color: white;*/
+    background-image: linear-gradient(grey,white );
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*whitespace for the portfolio page**/
+.whiteRectanglePortfolio{
+    width: 1200px;
+    height: 1600px;
+    border: 5px solid black;
+    /*background-color: white;*/
+    background-image: linear-gradient(grey,white );
+    margin-left: auto;
+    margin-right: auto;
+}
