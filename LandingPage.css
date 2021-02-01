@@ -1,0 +1,9 @@
+.textspaceLP1{
+    width: 500px;
+    height: 300px;
+    /*border: 5px solid black;*/
+    /*background-color: white;*/
+    background-image: black;
+    margin-left: auto;
+    margin-right: auto;
+}

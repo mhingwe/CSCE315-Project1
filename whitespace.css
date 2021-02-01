@@ -30,3 +30,14 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+/*whitespace for qualifications page*/
+.whiteRectangleQualifications{
+    width: 1200px;
+    height: 650px;
+    border: 5px solid black;
+    /*background-color: white;*/
+    background-image: linear-gradient(grey,white );
+    margin-left: auto;
+    margin-right: auto;
+}

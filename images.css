@@ -1,4 +1,4 @@
-
+/* About me Images*/
 .AMIMG1{
     height: 500px;
     width: 400px;
@@ -7,6 +7,13 @@
 
 .AMIMG2{
     height: 250px;
+    width: 500px;
+
+}
+
+/*qualifications images*/
+.QIMG1{
+    height: 300px;
     width: 500px;
 
 }
