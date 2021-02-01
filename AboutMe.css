@@ -1,8 +1,19 @@
 /*about me text class 1*/
 .textspaceAboutme1{
     width: 500px;
-    height: 150px;
-    border: 5px solid black;
+    height: 450px;
+    /*border: 5px solid black;*/
+    /*background-color: white;*/
+    background-image: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*about me text box #2*/
+.textspaceAboutme2{
+    width: 500px;
+    height: 250px;
+    /*border: 5px solid black;*/
     /*background-color: white;*/
     background-image: black;
     margin-left: auto;

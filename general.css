@@ -58,6 +58,9 @@
 .buttonbuffer{
     width: 10px;
 }
+.bufferVertical{
+    width: 15px;
+}
 
 /*alignment classes*/
 .alignCenter{
@@ -68,4 +71,8 @@
 }
 .alignLeft{
     text-align: left;
+}
+.rowalign{
+    display: flex;
+    justify-content: space-between;
 }
