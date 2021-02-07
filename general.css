@@ -1,6 +1,6 @@
 /*Sets the backgound of the website*/
 .background{
-    background-image: url(background.webp);
+    background-image: url(pictures/White_backgorund.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: 100% 100%;
@@ -13,7 +13,8 @@
     margin-left: auto;
     margin-right: auto;
     border: 5px solid black;
-    background-image: linear-gradient(grey,white );
+    background-image: linear-gradient(white,whitesmoke );
+    border-radius: 12px;
 }
 
 /*alligns buttons together*/
@@ -24,7 +25,7 @@
 
 /*general button class*/
 .button{
-  background-color: grey; 
+  background-color: green; 
   border: none;
   position: relative;
   color: white;
@@ -134,5 +135,56 @@
     margin-right: auto;
 }
 
+/*whitespace for the Service**/
+.whiteRectangleService{
+    width: 1200px;
+    height: 1000px;
+    border: 5px solid black;
+    /*background-color: white;*/
+    background-image: linear-gradient(white,green );
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 12px;
+}
+
 /*text space classes*/
 
+
+
+/*Image placement and asthetic classes*/
+/* About me Images*/
+.AMIMG1{
+    height: 500px;
+    width: 500px;
+    border: 5px solid black;
+    border-radius: 12px;
+
+}
+
+.AMIMG2{
+    height: 250px;
+    width: 500px;
+
+}
+
+/*qualifications images*/
+.QIMG1{
+    height: 300px;
+    width: 500px;
+
+}
+
+.imageWide{
+    height: 500px;
+    width: 800px;
+    border: 5px solid black;
+    border-radius: 12px;
+
+}
+
+/*Jumbotron text class*/
+
+.jumbotronText{
+    margin-left: auto;
+    margin-right: auto;
+}
