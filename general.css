@@ -87,3 +87,52 @@
 .clearfix img {
     margin-right: 20px;
 }
+
+/*whitespace classes*/
+
+/*whitespace for the Landing page**/
+.whiteRectangleLanding{
+    width: 1200px;
+    height: 550px;
+    border: 5px solid black;
+    /*background-color: white;*/
+    background-image: linear-gradient(grey,white );
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*whitespace for the portfolio page**/
+.whiteRectanglePortfolio{
+    width: 1200px;
+    height: 1750px;
+    border: 5px solid black;
+    /*background-color: white;*/
+    background-image: linear-gradient(grey,white );
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*whitespace for the about me page**/
+.whiteRectangleAboutMe{
+    width: 1200px;
+    height: 1225px;
+    /*border: 5px solid black;*/
+    /*background-color: white;*/
+    background-image: linear-gradient(grey,white );
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*whitespace for qualifications page*/
+.whiteRectangleQualifications{
+    width: 1200px;
+    height: 650px;
+    border: 5px solid black;
+    /*background-color: white;*/
+    background-image: linear-gradient(grey,white );
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/*text space classes*/
+
